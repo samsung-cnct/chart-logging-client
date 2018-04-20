@@ -1,9 +1,7 @@
 # Default values.
 
 fluent-bit:
+  name: fluent-bit
   replicaCount: 1
-  image:
-    repository: "quay.io/samsung_cnct/eventrouter-container"
-    tag: "latest" 
   config:
     sink: "stdout"
