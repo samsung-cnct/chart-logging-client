@@ -7,5 +7,4 @@ configs:
     stage: 
       values:
 prod: 
-  doDeploy: none
-  #doDeploy: versionfile
+  doDeploy: versionfile
