@@ -6,9 +6,6 @@ configs:
       values:
     stage: 
       values:
-helmRepos:
-   - name: cnct-migrations
-     url: http://charts.migrations.cnct.io
 prod: 
   doDeploy: none
   #doDeploy: versionfile
