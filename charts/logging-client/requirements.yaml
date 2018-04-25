@@ -1,7 +1,15 @@
+#
+# NOTE: until helm issue 3947 is fixed, our chart version numbers are too long to list
+#       to get a full version number for pinning.
+#       e.g. charts.migrations.cnct.io/curator:0.0.6-prod.1+6b9ff26a9f8ee84d0760c68d117cb37677...
+#       (note the dots...)
+#       Using a range for now.
+#       (MLN 4/23/2018)
+#
 depends:
-- name: fluent-bit
-  repository: http://charts.migrations.cnct.io
-  version: 0.0.6-0
-- name: eventrouter
-  repository: http://charts.migrations.cnct.io
-  version: 0.0.3-0
+        #- name: fluent-bit
+        #repository: http://charts.migrations.cnct.io
+        #version: ">=0.0.6-prod,<0.0.7-prod"
+        #- name: eventrouter
+        #repository: http://charts.migrations.cnct.io
+        #version: ">=0.0.3-prod,<0.0.4-prod"

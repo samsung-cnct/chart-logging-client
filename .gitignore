@@ -1,1 +1,5 @@
 .idea
+
+charts/logging-client/charts
+charts/logging-client/requirements.lock
+charts/logging-client/logging-client-*.tgz
