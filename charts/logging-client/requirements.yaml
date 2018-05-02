@@ -6,6 +6,7 @@
 #       Using a range for now.
 #       (MLN 4/23/2018)
 #
+---
 dependencies:
   - name: fluent-bit
     repository: http://charts.migrations.cnct.io
