@@ -12,4 +12,4 @@ depends:
     version: ">=0.0.7-prod,<0.0.8-prod"
   - name: eventrouter
     repository: http://charts.migrations.cnct.io
-    version: ">=0.0.3-prod,<0.0.4-prod"
+    version: ">=0.0.4-prod,<0.0.5-prod"
