@@ -9,7 +9,7 @@
 depends:
   - name: fluent-bit
     repository: http://charts.migrations.cnct.io
-    version: ">=0.0.7-prod,<0.0.8-prod"
+    version: "0.0.7"
   - name: eventrouter
     repository: http://charts.migrations.cnct.io
-    version: ">=0.1.0-prod,<0.1.20-prod"
+    version: "0.1.0"
