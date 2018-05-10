@@ -3,5 +3,6 @@
 fluent-bit:
   name: fluent-bit
   replicaCount: 1
+  cluster_uuid: 00000000-0000-0000-0000-000000000000
   config:
     sink: "stdout"
