@@ -3,7 +3,6 @@ name: logging-client
 version: 0.0.1
 description: Logging chart for fluent-bit -> Central Logging
 keywords:
-- kraken
 - fluent-bit
 - eventrouter
 home: https://github.com/samsung-cnct/chart-logging-client
