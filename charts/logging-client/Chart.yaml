@@ -1,6 +1,7 @@
+---
 name: logging-client
 version: 0.0.1
-description: Logging chart for fluent-bit -> Central Logging 
+description: Logging chart for fluent-bit -> Central Logging
 keywords:
 - kraken
 - fluent-bit

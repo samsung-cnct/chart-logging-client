@@ -1,5 +1,5 @@
 # Default values.
-
+---
 fluent-bit:
   name: fluent-bit
   replicaCount: 1
