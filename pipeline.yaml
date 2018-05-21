@@ -1,11 +1,12 @@
+---
 type: chart
 configs:
   - chart: logging-client
     release: logging-client
-    test: 
+    test:
       values:
-    stage: 
+    stage:
       values:
-prod: 
+prod:
   doDeploy: none
-  #doDeploy: versionfile
+  # doDeploy: versionfile

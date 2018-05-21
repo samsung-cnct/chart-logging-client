@@ -1,1 +1,8 @@
-TBD
+You have installed {{ .Chart.Name }}.
+
+Release name: {{ .Release.Name }}.
+
+To learn more about the release, try:
+
+  helm status {{ .Release.Name }}
+  helm get {{ .Release.Name }}
