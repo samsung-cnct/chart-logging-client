@@ -10,7 +10,7 @@
 dependencies:
   - name: fluent-bit
     repository: https://charts.migrations.cnct.io
-    version: ">=0.0.7-prod,<0.0.8-prod"
+    version: ">=0.0.8-prod,<0.0.9-prod"
   - name: eventrouter
     repository: https://charts.migrations.cnct.io
-    version: ">=0.1.0-prod,<0.2.0-prod"
+    version: ">=0.1.1-prod,<0.2.0-prod"
