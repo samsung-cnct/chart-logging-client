@@ -2,6 +2,8 @@ type: chart
 configs:
   - chart: logging-client
     release: logging-client
+    retries: 2
+    timeout: 900
     test: 
       values:
     stage: 
