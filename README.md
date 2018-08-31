@@ -1,4 +1,4 @@
-# chart-logging-central
+# chart-logging-client
 
 [![Build Status](https://jenkins.migrations.cnct.io/buildStatus/icon?job=pipeline-client-logging/master)](https://jenkins.migrations.cnct.io/job/pipeline-client-logging/job/master)
 
