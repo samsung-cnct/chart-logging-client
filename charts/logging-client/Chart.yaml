@@ -8,7 +8,7 @@ home: https://github.com/samsung-cnct/chart-logging-client
 sources:
 - https://github.com/samsung-cnct/chart-logging-client
 maintainers:
-- name: Samsung CNCT
-  email: samsung.cloudnative@gmail.com
+- name: Samsung CNCT OSS Maintainers
+  email: oss-maintainer@samsung-cnct.io
 icon: https://github.com/samsung-cnct/solas/docs/images/samsung-logo.svg
 engine: gotpl
