@@ -1,5 +1,5 @@
 name: logging-client
-version: 0.0.13
+version: 0.0.14
 description: Logging chart for fluent-bit -> Central Logging
 keywords:
 - fluent-bit
