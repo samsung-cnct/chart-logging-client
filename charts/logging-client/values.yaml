@@ -1,5 +1,13 @@
 fluent-bit:
   name: fluent-bit
   cluster_uuid: 00000000-0000-0000-0000-000000000000
-  elasticSearchHost: elasticsearch
-  elasticSearchPassword: changeme 
+
+fluentd:
+  name: fluentd
+  fluentESUser: elastic
+  fluentESPassword: changme
+  s3Bucket: sampleBucketName
+  s3BucketPath: logs/
+  s3Region: sampleBucketRegion
+  output:
+    host: elasticsearch
